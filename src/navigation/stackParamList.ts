@@ -1,7 +1,6 @@
 export type StackParamList = {
     Home: undefined;
-    About: {
-        id: string,
+    Raw: {
+        story: string,
     };
-    Random: undefined
-    }
+}

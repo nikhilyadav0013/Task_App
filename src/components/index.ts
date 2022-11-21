@@ -1,5 +1,3 @@
-import Input from "./input";
-import Button from "./button";
-import Title from "./text";
+import Table from "./table";
 
-export { Input, Button, Title }
+export { Table }

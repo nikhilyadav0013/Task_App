@@ -1,5 +1,4 @@
 import Home from "./Home";
-import About from "./About";
-import Random from "./Random";
+import Raw from "./Raw";
 
-export { Home, About, Random }
+export { Home, Raw }
